@@ -1,0 +1,28 @@
+# ** All configuration variables are optional **
+# Copy this file and name it as `dotenv` (without backticks)
+# Read https://jef.buzz/streetmerchant/getting-started/#customization for help on customizing this file
+########################################################################################################
+
+AUTO_ADD_TO_CART=true
+BROWSER_TRUSTED=true
+DESKTOP_NOTIFICATIONS=true
+HEADLESS=true
+IN_STOCK_WAIT_TIME=120
+MAX_PRICE_SERIES_3090=1900
+MAX_PRICE_SERIES_TEST=2000
+OPEN_BROWSER=true
+PAGE_BACKOFF_MIN=366
+PAGE_BACKOFF_MAX=888
+PAGE_SLEEP_MIN=
+PAGE_SLEEP_MAX=
+PAGE_TIMEOUT=
+RESTART_TIME=
+SCREENSHOT=
+SHOW_ONLY_BRANDS=
+SHOW_ONLY_MODELS=
+SHOW_ONLY_SERIES=3090
+STORES=adorama, amd, antonline, asus, bandh, bestbuy, bestbuy-ca, corsair, evga, gamestop, officedepot, pnytarget, walmart, zotac
+TWILIO_ACCOUNT_SID=ACbfcf24f97e26668e0b8dd5de44a0933a
+TWILIO_AUTH_TOKEN=49734e7c2fa6f313a83c2d4499885ecc
+TWILIO_FROM_NUMBER=+12562738205
+TWILIO_TO_NUMBER=3526724391
